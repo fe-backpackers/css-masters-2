@@ -51,3 +51,11 @@
 #### 5주차(5/30 월 ~ 6/6 일)
 
 - Appendix A ~ D
+
+### 4. 출석표
+
+|                                                  | 1주차 | 2주차 | 3주차 | 4주차 | 5주차 |
+| ------------------------------------------------ | :---: | :---: | :---: | :---: | :---: |
+| [@Lee-Da-Hye](https://github.com/Lee-Da-Hye)     |   v   |       |       |       |       |
+| [@galimii](https://github.com/galimii)           |   v   |       |       |       |       |
+| [@bigsaigon333](https://github.com/bigsaigon333) |   v   |       |       |       |       |
