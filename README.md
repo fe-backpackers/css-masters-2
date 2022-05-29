@@ -52,10 +52,10 @@
 
 - Appendix A ~ D
 
-### 4. 출석표
+### 4. 출석부
 
 |                                                  | 1주차 | 2주차 | 3주차 | 4주차 | 5주차 |
 | ------------------------------------------------ | :---: | :---: | :---: | :---: | :---: |
-| [@Lee-Da-Hye](https://github.com/Lee-Da-Hye)     |   v   |   v   |   v   |       |       |
-| [@galimii](https://github.com/galimii)           |   v   |   v   |   v   |       |       |
-| [@bigsaigon333](https://github.com/bigsaigon333) |   v   |   v   |   v   |       |       |
+| [@Lee-Da-Hye](https://github.com/Lee-Da-Hye)     |   v   |   v   |   v   |   v   |       |
+| [@galimii](https://github.com/galimii)           |   v   |   v   |   v   |   v   |       |
+| [@bigsaigon333](https://github.com/bigsaigon333) |   v   |   v   |   v   |   v   |       |
